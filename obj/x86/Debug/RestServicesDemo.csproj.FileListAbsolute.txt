@@ -1,0 +1,5 @@
+D:\MyVisualStudioProjects\RestServicesDemo\bin\Debug\RestServicesDemo.exe.config
+D:\MyVisualStudioProjects\RestServicesDemo\bin\Debug\RestServicesDemo.exe
+D:\MyVisualStudioProjects\RestServicesDemo\bin\Debug\RestServicesDemo.pdb
+D:\MyVisualStudioProjects\RestServicesDemo\obj\x86\Debug\RestServicesDemo.exe
+D:\MyVisualStudioProjects\RestServicesDemo\obj\x86\Debug\RestServicesDemo.pdb
